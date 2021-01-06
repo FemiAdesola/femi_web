@@ -1,0 +1,16 @@
+{
+  "name": "cssthem",
+  "version": "1.0.0",
+  "description": "Resonsive website",
+  "main": "index.js",
+  "homepage": "https://FemiAdesola.github.io/femi_web",
+  "scripts": {
+    "sass": "node-sass -w css/-o cssthem/style.css/--recursive",
+    "deploy": "gh-pages -d cssthem"
+  },
+  "author": "Femi Adesola Oyinloye",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
