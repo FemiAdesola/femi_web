@@ -51,7 +51,7 @@ p {
 
 #showcase .bg-image {
   position: absolute;
-  background: #fff url("../img2/PIC5.JPG");
+  background: #fff url("./PIC5.JPG");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
