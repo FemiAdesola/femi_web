@@ -34,7 +34,7 @@ p {
   text-decoration: none;
   padding: 1em 1em;
   border: 1px solid #666;
-  margin: 0;
+  margin: 2em 0;
 }
 .btn:hover {
   background: #eaeaea;
@@ -65,7 +65,7 @@ p {
 
 #showcase h1 {
   padding-top: 100px;
-  padding-bottom: 5px;
+  padding-bottom: 0;
 }
 
 #showcase p {
