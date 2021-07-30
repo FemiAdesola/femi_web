@@ -218,3 +218,13 @@ p {
     grid-column: span 2;
   }
 }
+
+.content {
+  text-align: left;
+  margin-left: 70px;
+}
+.content_j {
+  text-align: left;
+  margin-left: 70px;
+  text-align: justify;
+}
